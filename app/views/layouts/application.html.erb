@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>OES Data Explorer</title>
+  <%= stylesheet_link_tag "application", :media => "all" %>
+  <%= javascript_include_tag "application" %>
+  <meta name="keywords" content="data, wages, salary, tool, bls, oes, explorer, money, pay">
+  <meta name="description" content="Data tool for U.S. wage estimates from the Bureau of Labor Statistics' Occupational Employment Statistics program">
+  <%= csrf_meta_tags %>
+  <%= analytics_init if Rails.env.production? %>
+</head>
+<body>
+
+<%= yield %>
+
+</body>
+
+<footer>Built by <a href="mailto:dave@datawonk.net">Dave Guarino</a></footer>
+</html>

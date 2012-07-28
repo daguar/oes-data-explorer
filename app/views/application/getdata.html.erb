@@ -1,0 +1,89 @@
+<body>
+<div class="container">
+<% if flash[:notice] %>
+<p class="alert"><%= flash[:notice] %></p>
+<% end %>
+<% if flash[:error] %>
+<p class="alert"><%= flash[:error] %></p>
+<% end %>
+<h1>OES Data Explorer</h1>
+
+  <% if @area_name == 'National' %>
+    <div id="bignum"><%= number_to_currency(@values['0000000'][:median].gsub(/[-*]/,"N/A"), :precision => 0) %></div>
+    <blockquote>The median annual wage for <a href="http://www.bls.gov/oes/current/oes<%=@job_code %>.htm"><%= @job_category.downcase%></a> nationally is <%= number_to_currency(@values['0000000'][:median].gsub(/[-*]/,"N/A"), :precision => 0) %>.</blockquote>
+    <br>
+    <h4>Job Title:  <%= @job_title%> </h4>
+    <h4>Job Category:  <%= @job_category%> </h4>
+    <h4>Location:  National </h4>
+    <br>
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th></th>
+          <th>10th <br>Percentile</th>
+          <th>25th <br>Percentile</th>
+          <th class="emphasis">Median</th>
+          <th>75th <br>Percentile</th>
+          <th>90th <br>Percentile</th>
+        </tr>
+      </thead>
+      <tr>
+        <td class="emphasis">National</td>
+        <td><%= number_to_currency(@values['0000000'][:_10th].gsub(/[-*]/,"N/A"), :precision => 0) %></td>
+        <td><%= number_to_currency(@values['0000000'][:_25th].gsub(/[-*]/,"N/A"), :precision => 0) %></td>
+        <td class="emphasis"><%= number_to_currency(@values['0000000'][:median].gsub(/[-*]/,"N/A"), :precision => 0) %></td>
+        <td><%= number_to_currency(@values['0000000'][:_75th].gsub(/[-*]/,"N/A"), :precision => 0) %></td>
+        <td><%= number_to_currency(@values['0000000'][:_90th].gsub(/[-*]/,"N/A"), :precision => 0) %></td>
+      </tr>
+    </table>
+
+  <% else %>
+    <div id="bignum"><%= number_to_currency(@values[@area_code][:median].gsub(/[-*]/,"N/A"), :precision => 0) %></div>
+    <blockquote>The median annual wage for <a href="http://www.bls.gov/oes/current/oes<%=@job_code %>.htm"><%= @job_category.downcase%></a> in <%= @area_name%> is <%= number_to_currency(@values[@area_code][:median].gsub(/[-*]/,"N/A"), :precision => 0) %>.</blockquote>
+      <br>
+      <h4>Job Title:  <%= @job_title%> </h4>
+      <h4>Job Category:  <%= @job_category%> </h4>
+      <h4>Location:  <%= @area_name%> </h4>
+    <br>
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th></th>
+          <th>10th <br>Percentile</th>
+          <th>25th <br>Percentile</th>
+          <th class="emphasis">Median</th>
+          <th>75th <br>Percentile</th>
+          <th>90th <br>Percentile</th>
+        </tr>
+      </thead>
+      <tr>
+        <td class="emphasis"><%= @area_name%></td>
+        <td><%= number_to_currency(@values[@area_code][:_10th].gsub(/[-*]/,"N/A"), :precision => 0) %></td>
+        <td><%= number_to_currency(@values[@area_code][:_25th].gsub(/[-*]/,"N/A"), :precision => 0) %></td>
+        <td class="emphasis"><%= number_to_currency(@values[@area_code][:median].gsub(/[-*]/,"N/A"), :precision => 0) %></td>
+        <td><%= number_to_currency(@values[@area_code][:_75th].gsub(/[-*]/,"N/A"), :precision => 0) %></td>
+        <td><%= number_to_currency(@values[@area_code][:_90th].gsub(/[-*]/,"N/A"), :precision => 0) %></td>
+      </tr>
+      <tr>
+        <td class="emphasis">National</td>
+        <td><%= number_to_currency(@values['0000000'][:_10th].gsub(/[-*]/,"N/A"), :precision => 0) %></td>
+        <td><%= number_to_currency(@values['0000000'][:_25th].gsub(/[-*]/,"N/A"), :precision => 0) %></td>
+        <td class="emphasis"><%= number_to_currency(@values['0000000'][:median].gsub(/[-*]/,"N/A"), :precision => 0) %></td>
+        <td><%= number_to_currency(@values['0000000'][:_75th].gsub(/[-*]/,"N/A"), :precision => 0) %></td>
+        <td><%= number_to_currency(@values['0000000'][:_90th].gsub(/[-*]/,"N/A"), :precision => 0) %></td>
+      </tr>
+    </table>
+
+  <% end %>
+  <br>
+  <br>
+  <p>Note: Annual wages have been calculated by multiplying the hourly mean wage by 2,080 hours; where an hourly mean wage is not published, the annual wage has been directly calculated from the reported survey data.</p>
+  <br>
+  <div class="row">
+    <div class="span3"><a href="http://www.bls.gov/oes/oes_ques.htm">OES Data FAQ</a></div>
+    <div class="span3"><a href="http://www.bls.gov/oes/current/oes_tec.htm">Technical Notes</a></div>
+    <div class="span3"><a href="http://www.bls.gov/opub/hom/pdf/homch3.pdf">Survey Methodology</a></div>
+  </div>
+</div>
+</body>
+

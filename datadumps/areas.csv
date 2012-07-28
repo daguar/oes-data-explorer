@@ -1,0 +1,641 @@
+0000000,National,N
+0010180,"Abilene, TX",M
+0010380,"Aguadilla-Isabela-San Sebastian, PR",M
+0010420,"Akron, OH",M
+0010500,"Albany, GA",M
+0010580,"Albany-Schenectady-Troy, NY",M
+0010740,"Albuquerque, NM",M
+0010780,"Alexandria, LA",M
+0010900,"Allentown-Bethlehem-Easton, PA-NJ",M
+0011020,"Altoona, PA",M
+0011100,"Amarillo, TX",M
+0011180,"Ames, IA",M
+0011260,"Anchorage, AK",M
+0011300,"Anderson, IN",M
+0011340,"Anderson, SC",M
+0011460,"Ann Arbor, MI",M
+0011500,"Anniston-Oxford, AL",M
+0011540,"Appleton, WI",M
+0011700,"Asheville, NC",M
+0012020,"Athens-Clarke County, GA",M
+0012060,"Atlanta-Sandy Springs-Marietta, GA",M
+0012100,"Atlantic City-Hammonton, NJ",M
+0012220,"Auburn-Opelika, AL",M
+0012260,"Augusta-Richmond County, GA-SC",M
+0012420,"Austin-Round Rock-San Marcos, TX",M
+0012540,"Bakersfield-Delano, CA",M
+0012580,"Baltimore-Towson, MD",M
+0012940,"Baton Rouge, LA",M
+0012980,"Battle Creek, MI",M
+0013020,"Bay City, MI",M
+0013140,"Beaumont-Port Arthur, TX",M
+0013380,"Bellingham, WA",M
+0013460,"Bend, OR",M
+0013644,"Bethesda-Rockville-Frederick, MD Metropolitan Division",M
+0013740,"Billings, MT",M
+0013780,"Binghamton, NY",M
+0013820,"Birmingham-Hoover, AL",M
+0013900,"Bismarck, ND",M
+0013980,"Blacksburg-Christiansburg-Radford, VA",M
+0014020,"Bloomington, IN",M
+0014060,"Bloomington-Normal, IL",M
+0014260,"Boise City-Nampa, ID",M
+0014500,"Boulder, CO",M
+0014540,"Bowling Green, KY",M
+0014740,"Bremerton-Silverdale, WA",M
+0015180,"Brownsville-Harlingen, TX",M
+0015260,"Brunswick, GA",M
+0015380,"Buffalo-Niagara Falls, NY",M
+0015500,"Burlington, NC",M
+0015804,"Camden, NJ Metropolitan Division",M
+0015940,"Canton-Massillon, OH",M
+0015980,"Cape Coral-Fort Myers, FL",M
+0016020,"Cape Girardeau-Jackson, MO-IL",M
+0016180,"Carson City, NV",M
+0016220,"Casper, WY",M
+0016300,"Cedar Rapids, IA",M
+0016580,"Champaign-Urbana, IL",M
+0016620,"Charleston, WV",M
+0016700,"Charleston-North Charleston-Summerville, SC",M
+0016740,"Charlotte-Gastonia-Rock Hill, NC-SC",M
+0016820,"Charlottesville, VA",M
+0016860,"Chattanooga, TN-GA",M
+0016940,"Cheyenne, WY",M
+0016974,"Chicago-Joliet-Naperville, IL Metropolitan Division",M
+0016980,"Chicago-Joliet-Naperville, IL-IN-WI",M
+0017020,"Chico, CA",M
+0017140,"Cincinnati-Middletown, OH-KY-IN",M
+0017300,"Clarksville, TN-KY",M
+0017420,"Cleveland, TN",M
+0017460,"Cleveland-Elyria-Mentor, OH",M
+0017660,"Coeur d'Alene, ID",M
+0017780,"College Station-Bryan, TX",M
+0017820,"Colorado Springs, CO",M
+0017860,"Columbia, MO",M
+0017900,"Columbia, SC",M
+0017980,"Columbus, GA-AL",M
+0018020,"Columbus, IN",M
+0018140,"Columbus, OH",M
+0018580,"Corpus Christi, TX",M
+0018700,"Corvallis, OR",M
+0018880,"Crestview-Fort Walton Beach-Destin, FL",M
+0019060,"Cumberland, MD-WV",M
+0019100,"Dallas-Fort Worth-Arlington, TX",M
+0019124,"Dallas-Plano-Irving, TX Metropolitan Division",M
+0019140,"Dalton, GA",M
+0019180,"Danville, IL",M
+0019260,"Danville, VA",M
+0019340,"Davenport-Moline-Rock Island, IA-IL",M
+0019380,"Dayton, OH",M
+0019460,"Decatur, AL",M
+0019500,"Decatur, IL",M
+0019660,"Deltona-Daytona Beach-Ormond Beach, FL",M
+0019740,"Denver-Aurora-Broomfield, CO",M
+0019780,"Des Moines-West Des Moines, IA",M
+0019804,"Detroit-Livonia-Dearborn, MI Metropolitan Division",M
+0019820,"Detroit-Warren-Livonia, MI",M
+0020020,"Dothan, AL",M
+0020100,"Dover, DE",M
+0020220,"Dubuque, IA",M
+0020260,"Duluth, MN-WI",M
+0020500,"Durham-Chapel Hill, NC",M
+0020740,"Eau Claire, WI",M
+0020764,"Edison-New Brunswick, NJ Metropolitan Division",M
+0020940,"El Centro, CA",M
+0021060,"Elizabethtown, KY",M
+0021140,"Elkhart-Goshen, IN",M
+0021300,"Elmira, NY",M
+0021340,"El Paso, TX",M
+0021500,"Erie, PA",M
+0021660,"Eugene-Springfield, OR",M
+0021780,"Evansville, IN-KY",M
+0021820,"Fairbanks, AK",M
+0021940,"Fajardo, PR",M
+0022020,"Fargo, ND-MN",M
+0022140,"Farmington, NM",M
+0022180,"Fayetteville, NC",M
+0022220,"Fayetteville-Springdale-Rogers, AR-MO",M
+0022380,"Flagstaff, AZ",M
+0022420,"Flint, MI",M
+0022500,"Florence, SC",M
+0022520,"Florence-Muscle Shoals, AL",M
+0022540,"Fond du Lac, WI",M
+0022660,"Fort Collins-Loveland, CO",M
+0022744,"Fort Lauderdale-Pompano Beach-Deerfield Beach, FL Metropolitan Division",M
+0022900,"Fort Smith, AR-OK",M
+0023060,"Fort Wayne, IN",M
+0023104,"Fort Worth-Arlington, TX Metropolitan Division",M
+0023420,"Fresno, CA",M
+0023460,"Gadsden, AL",M
+0023540,"Gainesville, FL",M
+0023580,"Gainesville, GA",M
+0023844,"Gary, IN Metropolitan Division",M
+0024020,"Glens Falls, NY",M
+0024140,"Goldsboro, NC",M
+0024220,"Grand Forks, ND-MN",M
+0024300,"Grand Junction, CO",M
+0024340,"Grand Rapids-Wyoming, MI",M
+0024500,"Great Falls, MT",M
+0024540,"Greeley, CO",M
+0024580,"Green Bay, WI",M
+0024660,"Greensboro-High Point, NC",M
+0024780,"Greenville, NC",M
+0024860,"Greenville-Mauldin-Easley, SC",M
+0025020,"Guayama, PR",M
+0025060,"Gulfport-Biloxi, MS",M
+0025180,"Hagerstown-Martinsburg, MD-WV",M
+0025260,"Hanford-Corcoran, CA",M
+0025420,"Harrisburg-Carlisle, PA",M
+0025500,"Harrisonburg, VA",M
+0025620,"Hattiesburg, MS",M
+0025860,"Hickory-Lenoir-Morganton, NC",M
+0025980,"Hinesville-Fort Stewart, GA",M
+0026100,"Holland-Grand Haven, MI",M
+0026180,"Honolulu, HI",M
+0026300,"Hot Springs, AR",M
+0026380,"Houma-Bayou Cane-Thibodaux, LA",M
+0026420,"Houston-Sugar Land-Baytown, TX",M
+0026580,"Huntington-Ashland, WV-KY-OH",M
+0026620,"Huntsville, AL",M
+0026820,"Idaho Falls, ID",M
+0026900,"Indianapolis-Carmel, IN",M
+0026980,"Iowa City, IA",M
+0027060,"Ithaca, NY",M
+0027100,"Jackson, MI",M
+0027140,"Jackson, MS",M
+0027180,"Jackson, TN",M
+0027260,"Jacksonville, FL",M
+0027340,"Jacksonville, NC",M
+0027500,"Janesville, WI",M
+0027620,"Jefferson City, MO",M
+0027740,"Johnson City, TN",M
+0027780,"Johnstown, PA",M
+0027860,"Jonesboro, AR",M
+0027900,"Joplin, MO",M
+0028020,"Kalamazoo-Portage, MI",M
+0028100,"Kankakee-Bradley, IL",M
+0028140,"Kansas City, MO-KS",M
+0028420,"Kennewick-Pasco-Richland, WA",M
+0028660,"Killeen-Temple-Fort Hood, TX",M
+0028700,"Kingsport-Bristol-Bristol, TN-VA",M
+0028740,"Kingston, NY",M
+0028940,"Knoxville, TN",M
+0029020,"Kokomo, IN",M
+0029100,"La Crosse, WI-MN",M
+0029140,"Lafayette, IN",M
+0029180,"Lafayette, LA",M
+0029340,"Lake Charles, LA",M
+0029404,"Lake County-Kenosha County, IL-WI Metropolitan Division",M
+0029420,"Lake Havasu City - Kingman, AZ",M
+0029460,"Lakeland-Winter Haven, FL",M
+0029540,"Lancaster, PA",M
+0029620,"Lansing-East Lansing, MI",M
+0029700,"Laredo, TX",M
+0029740,"Las Cruces, NM",M
+0029820,"Las Vegas-Paradise, NV",M
+0029940,"Lawrence, KS",M
+0030020,"Lawton, OK",M
+0030140,"Lebanon, PA",M
+0030300,"Lewiston, ID-WA",M
+0030460,"Lexington-Fayette, KY",M
+0030620,"Lima, OH",M
+0030700,"Lincoln, NE",M
+0030780,"Little Rock-North Little Rock-Conway, AR",M
+0030860,"Logan, UT-ID",M
+0030980,"Longview, TX",M
+0031020,"Longview, WA",M
+0031084,"Los Angeles-Long Beach-Glendale, CA  Metropolitan Division",M
+0031100,"Los Angeles-Long Beach-Santa Ana, CA",M
+0031140,"Louisville-Jefferson County, KY-IN",M
+0031180,"Lubbock, TX",M
+0031340,"Lynchburg, VA",M
+0031420,"Macon, GA",M
+0031460,"Madera-Chowchilla, CA",M
+0031540,"Madison, WI",M
+0031740,"Manhattan, KS",M
+0031860,"Mankato-North Mankato, MN",M
+0031900,"Mansfield, OH",M
+0032420,"Mayaguez, PR",M
+0032580,"McAllen-Edinburg-Mission, TX",M
+0032780,"Medford, OR",M
+0032820,"Memphis, TN-MS-AR",M
+0032900,"Merced, CA",M
+0033100,"Miami-Fort Lauderdale-Pompano Beach, FL",M
+0033124,"Miami-Miami Beach-Kendall, FL Metropolitan Division",M
+0033140,"Michigan City-La Porte, IN",M
+0033260,"Midland, TX",M
+0033340,"Milwaukee-Waukesha-West Allis, WI",M
+0033460,"Minneapolis-St. Paul-Bloomington, MN-WI",M
+0033540,"Missoula, MT",M
+0033660,"Mobile, AL",M
+0033700,"Modesto, CA",M
+0033740,"Monroe, LA",M
+0033780,"Monroe, MI",M
+0033860,"Montgomery, AL",M
+0034060,"Morgantown, WV",M
+0034100,"Morristown, TN",M
+0034580,"Mount Vernon-Anacortes, WA",M
+0034620,"Muncie, IN",M
+0034740,"Muskegon-Norton Shores, MI",M
+0034820,"Myrtle Beach-Conway-North Myrtle Beach, SC",M
+0034900,"Napa, CA",M
+0034940,"Naples-Marco Island, FL",M
+0034980,"Nashville-Davidson--Murfreesboro--Franklin, TN",M
+0035004,"Nassau-Suffolk, NY Metropolitan Division",M
+0035084,"Newark-Union, NJ-PA Metropolitan Division",M
+0035380,"New Orleans-Metairie-Kenner, LA",M
+0035620,"New York-Northern New Jersey-Long Island, NY-NJ-PA",M
+0035644,"New York-White Plains-Wayne, NY-NJ Metropolitan Division",M
+0035660,"Niles-Benton Harbor, MI",M
+0035840,"North Port-Bradenton-Sarasota, FL",M
+0036084,"Oakland-Fremont-Hayward, CA Metropolitan Division",M
+0036100,"Ocala, FL",M
+0036140,"Ocean City, NJ",M
+0036220,"Odessa, TX",M
+0036260,"Ogden-Clearfield, UT",M
+0036420,"Oklahoma City, OK",M
+0036500,"Olympia, WA",M
+0036540,"Omaha-Council Bluffs, NE-IA",M
+0036740,"Orlando-Kissimmee-Sanford, FL",M
+0036780,"Oshkosh-Neenah, WI",M
+0036980,"Owensboro, KY",M
+0037100,"Oxnard-Thousand Oaks-Ventura, CA",M
+0037340,"Palm Bay-Melbourne-Titusville, FL",M
+0037380,"Palm Coast, FL",M
+0037460,"Panama City-Lynn Haven-Panama City Beach, FL",M
+0037620,"Parkersburg-Marietta-Vienna, WV-OH",M
+0037700,"Pascagoula, MS",M
+0037860,"Pensacola-Ferry Pass-Brent, FL",M
+0037900,"Peoria, IL",M
+0037964,"Philadelphia, PA Metropolitan Division",M
+0037980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",M
+0038060,"Phoenix-Mesa-Glendale, AZ",M
+0038220,"Pine Bluff, AR",M
+0038300,"Pittsburgh, PA",M
+0038540,"Pocatello, ID",M
+0038660,"Ponce, PR",M
+0038900,"Portland-Vancouver-Hillsboro, OR-WA",M
+0038940,"Port St. Lucie, FL",M
+0039100,"Poughkeepsie-Newburgh-Middletown, NY",M
+0039140,"Prescott, AZ",M
+0039340,"Provo-Orem, UT",M
+0039380,"Pueblo, CO",M
+0039460,"Punta Gorda, FL",M
+0039540,"Racine, WI",M
+0039580,"Raleigh-Cary, NC",M
+0039660,"Rapid City, SD",M
+0039740,"Reading, PA",M
+0039820,"Redding, CA",M
+0039900,"Reno-Sparks, NV",M
+0040060,"Richmond, VA",M
+0040140,"Riverside-San Bernardino-Ontario, CA",M
+0040220,"Roanoke, VA",M
+0040340,"Rochester, MN",M
+0040380,"Rochester, NY",M
+0040420,"Rockford, IL",M
+0040580,"Rocky Mount, NC",M
+0040660,"Rome, GA",M
+0040900,"Sacramento--Arden-Arcade--Roseville, CA",M
+0040980,"Saginaw-Saginaw Township North, MI",M
+0041060,"St. Cloud, MN",M
+0041100,"St. George, UT",M
+0041140,"St. Joseph, MO-KS",M
+0041180,"St. Louis, MO-IL",M
+0041420,"Salem, OR",M
+0041500,"Salinas, CA",M
+0041540,"Salisbury, MD",M
+0041620,"Salt Lake City, UT",M
+0041660,"San Angelo, TX",M
+0041700,"San Antonio-New Braunfels, TX",M
+0041740,"San Diego-Carlsbad-San Marcos, CA",M
+0041780,"Sandusky, OH",M
+0041860,"San Francisco-Oakland-Fremont, CA",M
+0041884,"San Francisco-San Mateo-Redwood City, CA Metropolitan Division",M
+0041900,"San German-Cabo Rojo, PR",M
+0041940,"San Jose-Sunnyvale-Santa Clara, CA",M
+0041980,"San Juan-Caguas-Guaynabo, PR",M
+0042020,"San Luis Obispo-Paso Robles, CA",M
+0042044,"Santa Ana-Anaheim-Irvine, CA Metropolitan Division",M
+0042060,"Santa Barbara-Santa Maria-Goleta, CA",M
+0042100,"Santa Cruz-Watsonville, CA",M
+0042140,"Santa Fe, NM",M
+0042220,"Santa Rosa-Petaluma, CA",M
+0042340,"Savannah, GA",M
+0042540,"Scranton--Wilkes-Barre, PA",M
+0042644,"Seattle-Bellevue-Everett, WA Metropolitan Division",M
+0042660,"Seattle-Tacoma-Bellevue, WA",M
+0042680,"Sebastian-Vero Beach, FL",M
+0043100,"Sheboygan, WI",M
+0043300,"Sherman-Denison, TX",M
+0043340,"Shreveport-Bossier City, LA",M
+0043580,"Sioux City, IA-NE-SD",M
+0043620,"Sioux Falls, SD",M
+0043780,"South Bend-Mishawaka, IN-MI",M
+0043900,"Spartanburg, SC",M
+0044060,"Spokane, WA",M
+0044100,"Springfield, IL",M
+0044180,"Springfield, MO",M
+0044220,"Springfield, OH",M
+0044300,"State College, PA",M
+0044600,"Steubenville-Weirton, OH-WV",M
+0044700,"Stockton, CA",M
+0044940,"Sumter, SC",M
+0045060,"Syracuse, NY",M
+0045104,"Tacoma, WA Metropolitan Division",M
+0045220,"Tallahassee, FL",M
+0045300,"Tampa-St. Petersburg-Clearwater, FL",M
+0045460,"Terre Haute, IN",M
+0045500,"Texarkana-Texarkana, TX-AR",M
+0045780,"Toledo, OH",M
+0045820,"Topeka, KS",M
+0045940,"Trenton-Ewing, NJ",M
+0046060,"Tucson, AZ",M
+0046140,"Tulsa, OK",M
+0046220,"Tuscaloosa, AL",M
+0046340,"Tyler, TX",M
+0046540,"Utica-Rome, NY",M
+0046660,"Valdosta, GA",M
+0046700,"Vallejo-Fairfield, CA",M
+0047020,"Victoria, TX",M
+0047220,"Vineland-Millville-Bridgeton, NJ",M
+0047260,"Virginia Beach-Norfolk-Newport News, VA-NC",M
+0047300,"Visalia-Porterville, CA",M
+0047380,"Waco, TX",M
+0047580,"Warner Robins, GA",M
+0047644,"Warren-Troy-Farmington Hills, MI Metropolitan Division",M
+0047894,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division",M
+0047900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",M
+0047940,"Waterloo-Cedar Falls, IA",M
+0048140,"Wausau, WI",M
+0048300,"Wenatchee-East Wenatchee, WA",M
+0048424,"West Palm Beach-Boca Raton-Boynton Beach, FL Metropolitan Division",M
+0048540,"Wheeling, WV-OH",M
+0048620,"Wichita, KS",M
+0048660,"Wichita Falls, TX",M
+0048700,"Williamsport, PA",M
+0048864,"Wilmington, DE-MD-NJ Metropolitan Division",M
+0048900,"Wilmington, NC",M
+0049020,"Winchester, VA-WV",M
+0049180,"Winston-Salem, NC",M
+0049420,"Yakima, WA",M
+0049500,"Yauco, PR",M
+0049620,"York-Hanover, PA",M
+0049660,"Youngstown-Warren-Boardman, OH-PA",M
+0049700,"Yuba City, CA",M
+0049740,"Yuma, AZ",M
+0070750,"Bangor, ME",M
+0070900,"Barnstable Town, MA",M
+0071650,"Boston-Cambridge-Quincy, MA-NH",M
+0071654,"Boston-Cambridge-Quincy, MA NECTA Division",M
+0071950,"Bridgeport-Stamford-Norwalk, CT",M
+0072104,"Brockton-Bridgewater-Easton, MA NECTA Division",M
+0072400,"Burlington-South Burlington, VT",M
+0072850,"Danbury, CT",M
+0073104,"Framingham, MA NECTA Division",M
+0073450,"Hartford-West Hartford-East Hartford, CT",M
+0073604,"Haverhill-North Andover-Amesbury, MA-NH NECTA Division",M
+0074204,"Lawrence-Methuen-Salem, MA-NH NECTA Division",M
+0074500,"Leominster-Fitchburg-Gardner, MA",M
+0074650,"Lewiston-Auburn, ME",M
+0074804,"Lowell-Billerica-Chelmsford, MA-NH NECTA Division",M
+0074950,"Manchester, NH",M
+0075404,"Nashua, NH-MA NECTA Division",M
+0075550,"New Bedford, MA",M
+0075700,"New Haven, CT",M
+0076450,"Norwich-New London, CT-RI",M
+0076524,"Peabody, MA NECTA Division",M
+0076600,"Pittsfield, MA",M
+0076750,"Portland-South Portland-Biddeford, ME",M
+0076900,"Portsmouth, NH-ME",M
+0077200,"Providence-Fall River-Warwick, RI-MA",M
+0077350,"Rochester-Dover, NH-ME",M
+0078100,"Springfield, MA-CT",M
+0078254,"Taunton-Norton-Raynham, MA NECTA Division",M
+0078700,"Waterbury, CT",M
+0079600,"Worcester, MA-CT",M
+0100000,Alabama,S
+0100001,Northwest Alabama nonmetropolitan area,M
+0100002,Northeast Alabama nonmetropolitan area,M
+0100003,Southwest Alabama nonmetropolitan area,M
+0100004,Southeast Alabama nonmetropolitan area,M
+0200000,Alaska,S
+0200001,Southeast Alaska nonmetropolitan area,M
+0200002,Railbelt / Southwest Alaska nonmetropolitan area,M
+0400000,Arizona,S
+0400001,North Arizona nonmetropolitan area,M
+0400002,Southeast Arizona nonmetropolitan area,M
+0500000,Arkansas,S
+0500001,Central Arkansas nonmetropolitan area,M
+0500002,East Arkansas nonmetropolitan area,M
+0500003,South Arkansas nonmetropolitan area,M
+0500004,West Arkansas nonmetropolitan area,M
+0600000,California,S
+0600001,Mother Lode Region of California nonmetropolitan area,M
+0600002,Eastern Sierra Region of California nonmetropolitan area,M
+0600003,North Coast Region of California nonmetropolitan area,M
+0600004,North Valley Region of California nonmetropolitan area,M
+0600005,Northern Mountains Region of California nonmetropolitan area,M
+0800000,Colorado,S
+0800001,East and South Colorado nonmetropolitan area,M
+0800002,West Colorado nonmetropolitan area,M
+0800003,Northcentral Colorado nonmetropolitan area,M
+0800004,Central Colorado nonmetropolitan area,M
+0900000,Connecticut,S
+0900001,Northwestern Connecticut nonmetropolitan area,M
+0900002,Eastern Connecticut nonmetropolitan area,M
+1000000,Delaware,S
+1000001,"Sussex County, Delaware nonmetropolitan area",M
+1100000,District of Columbia,S
+1200000,Florida,S
+1200001,Northwest Florida nonmetropolitan area,M
+1200002,Northeast Florida nonmetropolitan area,M
+1200003,South Florida nonmetropolitan area,M
+1300000,Georgia,S
+1300001,North Georgia nonmetropolitan area,M
+1300002,Middle Georgia nonmetropolitan area,M
+1300003,East Georgia nonmetropolitan area,M
+1300004,South Georgia nonmetropolitan area,M
+1500000,Hawaii,S
+1500001,Hawaii / Maui / Kauai nonmetropolitan area,M
+1600000,Idaho,S
+1600001,North Idaho nonmetropolitan area,M
+1600002,Southwest Idaho nonmetropolitan area,M
+1600003,Southcentral Idaho nonmetropolitan area,M
+1600004,East Idaho nonmetropolitan area,M
+1700000,Illinois,S
+1700001,Northwest Illinois nonmetropolitan area,M
+1700002,West Central Illinois nonmetropolitan area,M
+1700003,East Central Illinois nonmetropolitan area,M
+1700004,South Illinois nonmetropolitan area,M
+1800000,Indiana,S
+1800001,Northern Indiana nonmetropolitan area,M
+1800002,Central Indiana nonmetropolitan area,M
+1800003,Southern Indiana nonmetropolitan area,M
+1900000,Iowa,S
+1900001,Northeast Iowa nonmetropolitan area,M
+1900002,Northwest Iowa nonmetropolitan area,M
+1900003,Southwest Iowa nonmetropolitan area,M
+1900004,Southeast Iowa nonmetropolitan area,M
+2000000,Kansas,S
+2000001,Kansas nonmetropolitan area,M
+2100000,Kentucky,S
+2100001,West Kentucky nonmetropolitan area,M
+2100002,South Central Kentucky nonmetropolitan area,M
+2100003,West Central Kentucky nonmetropolitan area,M
+2100004,East Kentucky nonmetropolitan area,M
+2200000,Louisiana,S
+2200001,Hammond nonmetropolitan area,M
+2200002,Natchitoches nonmetropolitan area,M
+2200003,Winnsboro nonmetropolitan area,M
+2200004,New Iberia nonmetropolitan area,M
+2300000,Maine,S
+2300001,Northeast Maine nonmetropolitan area,M
+2300002,Southwest Maine nonmetropolitan area,M
+2400000,Maryland,S
+2400001,Upper Eastern Shore nonmetropolitan area,M
+2400002,"Garrett County, Maryland nonmetropolitan area",M
+2400003,"St. Mary's County, Maryland nonmetropolitan area",M
+2500000,Massachusetts,S
+2500001,Nantucket Island and Martha's Vineyard nonmetropolitan area,M
+2500002,Southwest Massachusetts nonmetropolitan area,M
+2500003,Northwest Massachusetts nonmetropolitan area,M
+2500004,North Central Massachusetts nonmetropolitan area,M
+2600000,Michigan,S
+2600001,Upper Peninsula of Michigan nonmetropolitan area,M
+2600002,Northeast Lower Peninsula of Michigan nonmetropolitan area,M
+2600003,Northwest Lower Peninsula of Michigan nonmetropolitan area,M
+2600004,Balance of Lower Peninsula of Michigan nonmetropolitan area,M
+2700000,Minnesota,S
+2700001,Northwest Minnesota nonmetropolitan area,M
+2700002,Northeast Minnesota nonmetropolitan area,M
+2700003,Southwest Minnesota nonmetropolitan area,M
+2700004,Southeast Minnesota nonmetropolitan area,M
+2800000,Mississippi,S
+2800001,Northeast Mississippi nonmetropolitan area,M
+2800002,Northwest Mississippi nonmetropolitan area,M
+2800003,Southeast Mississippi nonmetropolitan area,M
+2800004,Southwest Mississippi nonmetropolitan area,M
+2900000,Missouri,S
+2900001,Central Missouri nonmetropolitan area,M
+2900002,North Missouri nonmetropolitan area,M
+2900003,Southeast Missouri nonmetropolitan area,M
+2900004,Southwest Missouri nonmetropolitan area,M
+3000000,Montana,S
+3000001,Eastern Montana nonmetropolitan area,M
+3000002,Central Montana nonmetropolitan area,M
+3000003,Southwestern Montana nonmetropolitan area,M
+3000004,Western Montana nonmetropolitan area,M
+3100000,Nebraska,S
+3100001,Western Nebraska nonmetropolitan area,M
+3100002,Central Nebraska nonmetropolitan area,M
+3100003,Northeastern Nebraska nonmetropolitan area,M
+3100004,Southeastern Nebraska nonmetropolitan area,M
+3200000,Nevada,S
+3200001,Western Central Nevada nonmetropolitan area,M
+3200002,Other Nevada nonmetropolitan area,M
+3300000,New Hampshire,S
+3300001,Northern New Hampshire nonmetropolitan area,M
+3300002,Other New Hampshire nonmetropolitan area,M
+3300003,Western New Hampshire nonmetropolitan area,M
+3300004,Southwestern New Hampshire nonmetropolitan area,M
+3400000,New Jersey,S
+3500000,New Mexico,S
+3500001,North and West Central New Mexico nonmetropolitan area,M
+3500002,Eastern New Mexico nonmetropolitan area,M
+3500003,Southwestern New Mexico nonmetropolitan area,M
+3500004,"Los Alamos County, New Mexico nonmetropolitan area",M
+3600000,New York,S
+3600001,Capital/Northern New York nonmetropolitan area,M
+3600002,East Central New York nonmetropolitan area,M
+3600003,Central New York nonmetropolitan area,M
+3600004,Southwest New York nonmetropolitan area,M
+3700000,North Carolina,S
+3700001,Northeastern North Carolina nonmetropolitan area,M
+3700002,Other North Carolina nonmetropolitan area,M
+3700003,Western Central North Carolina nonmetropolitan area,M
+3700004,Western North Carolina nonmetropolitan area,M
+3800000,North Dakota,S
+3800001,Far Western North Dakota nonmetropolitan area,M
+3800002,West Central North Dakota nonmetropolitan area,M
+3800003,East Central North Dakota nonmetropolitan area,M
+3800004,Far Eastern North Dakota nonmetropolitan area,M
+3900000,Ohio,S
+3900001,West Northwestern Ohio nonmetropolitan area,M
+3900002,Other Ohio nonmetropolitan area,M
+3900003,Eastern Ohio nonmetropolitan area,M
+3900004,Southern Ohio nonmetropolitan area,M
+4000000,Oklahoma,S
+4000001,Northeastern Oklahoma nonmetropolitan area,M
+4000002,Northwestern Oklahoma nonmetropolitan area,M
+4000003,Southwestern Oklahoma nonmetropolitan area,M
+4000004,Southeastern Oklahoma nonmetropolitan area,M
+4100000,Oregon,S
+4100001,Coastal Oregon nonmetropolitan area,M
+4100002,Southern Oregon and Linn County nonmetropolitan area,M
+4100003,North Central Oregon nonmetropolitan area,M
+4100004,Eastern Oregon nonmetropolitan area,M
+4200000,Pennsylvania,S
+4200001,Far Western Pennsylvania nonmetropolitan area,M
+4200002,West Central Pennsylvania nonmetropolitan area,M
+4200003,Northeastern Pennsylvania nonmetropolitan area,M
+4200004,East Central Pennsylvania nonmetropolitan area,M
+4400000,Rhode Island,S
+4400001,"New Shoreham Town, Rhode Island nonmetropolitan area",M
+4500000,South Carolina,S
+4500001,Low Country South Carolina nonmetropolitan area,M
+4500002,Upper Savannah South Carolina nonmetropolitan area,M
+4500003,Pee Dee South Carolina nonmetropolitan area,M
+4500004,Lower Savannah South Carolina nonmetropolitan area,M
+4600000,South Dakota,S
+4600001,Central South Dakota nonmetropolitan area,M
+4600002,Eastern South Dakota nonmetropolitan area,M
+4600003,Western South Dakota nonmetropolitan area,M
+4700000,Tennessee,S
+4700001,Western Tennessee nonmetropolitan area,M
+4700002,South Central Tennessee nonmetropolitan area,M
+4700003,North Central Tennessee nonmetropolitan area,M
+4700004,Eastern Tennessee nonmetropolitan area,M
+4800000,Texas,S
+4800001,Northwestern Texas nonmetropolitan area,M
+4800002,North Central Texas nonmetropolitan area,M
+4800003,Eastern Texas nonmetropolitan area,M
+4800004,Central Texas nonmetropolitan area,M
+4800005,Southern Texas nonmetropolitan area,M
+4800006,Gulf Coast Texas nonmetropolitan area,M
+4900000,Utah,S
+4900001,Northern Utah nonmetropolitan area,M
+4900002,West Central Utah nonmetropolitan area,M
+4900003,South Western Utah nonmetropolitan area,M
+4900004,Eastern Utah nonmetropolitan area,M
+5000000,Vermont,S
+5000001,Southern Vermont nonmetropolitan area,M
+5000002,Northern Vermont nonmetropolitan area,M
+5100000,Virginia,S
+5100001,Southwestern Virginia nonmetropolitan area,M
+5100002,Southside Virginia nonmetropolitan area,M
+5100003,Northeastern Virginia nonmetropolitan area,M
+5100004,Northwestern Virginia nonmetropolitan area,M
+5300000,Washington,S
+5300001,Northwestern Washington nonmetropolitan area,M
+5300002,Southwestern Washington nonmetropolitan area,M
+5300003,Central Washington nonmetropolitan area,M
+5300004,Eastern Washington nonmetropolitan area,M
+5400000,West Virginia,S
+5400001,Southern West Virginia nonmetropolitan area,M
+5400002,North Central West Virginia nonmetropolitan area,M
+5500000,Wisconsin,S
+5500001,Eastern Wisconsin nonmetropolitan area,M
+5500002,West Central Wisconsin nonmetropolitan area,M
+5500003,South Central Wisconsin nonmetropolitan area,M
+5500004,Southwestern Wisconsin nonmetropolitan area,M
+5500005,Northern Wisconsin nonmetropolitan area,M
+5600000,Wyoming,S
+5600001,Northwestern Wyoming nonmetropolitan area,M
+5600002,Southwestern Wyoming nonmetropolitan area,M
+5600003,Northeastern Wyoming nonmetropolitan area,M
+5600004,Southeastern Wyoming nonmetropolitan area,M
+6600000,Guam,S
+7200000,Puerto Rico,S
+7200001,Puerto Rico nonmetropolitan area 1,M
+7200002,Puerto Rico nonmetropolitan area 2,M
+7800000,Virgin Islands,S

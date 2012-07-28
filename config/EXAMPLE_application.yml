@@ -1,0 +1,14 @@
+defaults: &defaults
+  dol_key: reallylongstringwithabunchofcharacterswhoa
+  dol_secret: mysecretkey
+  ga_tracking: mygatrackingnumber
+
+development:
+  <<: *defaults
+
+test:
+  <<: *defaults
+
+production:
+  <<: *defaults
+

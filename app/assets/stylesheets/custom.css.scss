@@ -1,0 +1,136 @@
+@import "bootstrap";
+
+/* universal */
+
+html {
+  overflow-y: scroll;
+}
+
+body {
+  padding-top: 60px;
+}
+
+section {
+  overflow: auto;
+}
+
+textarea {
+  resize: vertical;
+}
+
+footer{
+    display:block;
+    position:absolute;
+    bottom:0;
+    right:0;
+    padding: 40px;
+    font-weight: 300;
+    font-size: 15px;
+}
+
+.container {
+  width: 700px;
+  margin: 0 auto 0 auto;
+}
+
+.location {
+  width: 320px;
+  float: left;
+}
+
+
+.jobtitle {
+  width: 380px;
+  float: right;
+}
+
+input, textarea, select, .uneditable-input {
+  width: 260px;
+}
+
+#jobs_job_title {
+  width: 360px;
+}
+
+.white{
+  color:white;
+}
+
+.center {
+  text-align: center;
+}
+
+.center h1 {
+  margin-bottom: 10px;
+}
+
+.emphasis {
+  font-weight: bold;
+}
+
+.table th, .table td {
+  max-width: 100px;
+  height: 40px;
+  vertical-align:middle;
+}
+
+ul
+{
+    list-style-type: none;
+}
+
+#faq {
+  text-align:left;
+}
+
+#technotes {
+  text-align: center;
+}
+
+#methodology {
+  text-align: right;
+}
+
+#bignum {
+  height: 57px;
+  width: 300px;
+  margin: 38px auto 0px auto;
+  font-weight: bold;
+  text-align: center;
+  font-size: 50px;
+  display: block;
+}
+
+
+
+/* Below load taken & modified from the awesome answer here:
+http://stackoverflow.com/questions/1964839/jquery-please-wait-loading-animation
+Mad props to Jonathan Sampson
+Loader image built using: http://ajaxload.info/ */
+
+.modal {
+    display:    none;
+    margin:     -142px;
+    height:     108px;
+    text-align: center;
+    width:      200px;
+    float:      left;
+    padding:    43px;
+    background: rgba( 255, 255, 255, .9 ) 
+                url('ajax-loader.gif') 
+                49% 62% 
+                no-repeat;
+}
+
+/* When the body has the loading class, we turn
+   the scrollbar off with overflow:hidden */
+body.loading {
+    overflow: hidden;
+}
+
+/* Anytime the body has the loading class, our
+   modal element will be visible */
+body.loading .modal {
+    display: block;
+}
+

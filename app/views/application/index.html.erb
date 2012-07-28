@@ -1,0 +1,27 @@
+<div class="container">
+<% if flash[:notice] %>
+<p class="alert"><%= flash[:notice] %></p>
+<% end %>
+<% if flash[:error] %>
+<p class="alert"><%= flash[:error] %></p>
+<% end %>
+  <h1>OES Data Explorer</h1>
+  <br>
+  <p>Easy access to U.S. wage estimates from the <a href="http://www.bls.gov">Bureau of Labor Statistics</a>' <a href="http://www.bls.gov/oes/">Occupational Employment Statistics</a> program</p>
+  <br>
+  <div class="location">
+    <%= form_tag '/getdata' do %>
+    <%= label :area, :state, 'State' %>
+    <%= collection_select :area, :state, @states, :name, :name, :input_html => {:rel => "/getmsas"}, :include_blank => "National" %>
+      <div id="msas">
+        <%= label :area, :msa, 'Area' %>
+        <%= collection_select :area, :msa, {}, :code, :name, {:include_blank => ""} %>
+      </div>
+  </div>
+  <div class="jobtitle">
+    <%= label :job, :title, 'Job Title' %>
+    <%= autocomplete_field 'jobs', :job_title, autocomplete_job_title_jobs_path %>
+  </div>
+  <% end %>
+  <div class="modal">Searching OES...</div>
+</div>
